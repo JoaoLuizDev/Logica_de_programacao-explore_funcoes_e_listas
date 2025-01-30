@@ -26,10 +26,10 @@ Aqui está uma visão geral da estrutura de arquivos e pastas do projeto:
 └── 📄 style.css         
 
 ## Objetivos do curso
-🔹 Aprender o que são funções e como usar o JavaScript para manipular elementos na tela;
-🔹 Desenvolver lógica de programação inspirado num projeto real;
-🔹 Usar o Github e Vercel para publicar seus projetos;
-🔹 Utilizar listas, uma das principais estruturas de dados no mundo da programação;
+🔹 Aprender o que são funções e como usar o JavaScript para manipular elementos na tela;  
+🔹 Desenvolver lógica de programação inspirado num projeto real;  
+🔹 Usar o Github e Vercel para publicar seus projetos;  
+🔹 Utilizar listas, uma das principais estruturas de dados no mundo da programação;  
 🔹 Criar manipulações de palavras e números de forma dinâmica com JavaScript.
 
 ##  Ferramentas utilizadas
