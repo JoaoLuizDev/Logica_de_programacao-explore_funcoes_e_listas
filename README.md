@@ -40,12 +40,10 @@ Aqui está uma visão geral da estrutura de arquivos e pastas do projeto:
 [![VSCode](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)]()
 
 ## Deploy
-🔹 **Deploy GitHub Pages:** [Clique aqui]()  
-🔹 **Deploy Vercel:** [Clique aqui]()
-
+🔹 **Deploy Vercel:** [Clique aqui](https://funcoes-e-listas.vercel.app/)
 
 ## Resultado
 <p align="center">
-  <img src="img/print-tela.png" alt="Resultado" style="width: 50%; max-width: 700px;"/>
+  <img src="img/print-tela.png" alt="Resultado" style="width: 90%; max-width: 1000px;"/>
 </p>
 
